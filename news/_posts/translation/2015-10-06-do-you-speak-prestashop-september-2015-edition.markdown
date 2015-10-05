@@ -9,14 +9,14 @@ tags: [translation, i18n, l10n]
 ---
 
 
-Here is the new report to inform you of what has been going on [PrestaShop translation project on Crowdin](https://crowdin.com/project/prestashop-official) this September 2015, a rather quiet month for our project.
+Here is the new report to inform you of what has been going on in [PrestaShop's translation project on Crowdin](https://crowdin.com/project/prestashop-official) this September 2015 -- a rather quiet month for our project.
 
 All the figures and statistics are (still) based on the 1.6.1.0 project.
 
 
 ## Updated workflow
 
-We've recently changed the workflow on Crowdin: it's important **you should translate in the "next-version" folder in priority**.
+We've recently changed the workflow on Crowdin: it's important that **you should translate in the "next-version" folder in priority**.
 Strings will then automatically propagate to the "1.6.1.0" folder, while the reverse won't work. So if you're working on 1.6.1.0, that's double work for everybody.
 [Read more about it here](http://build.prestashop.com/news/do-you-speak-prestashop-july-2015-edition/). And don't hesitate to ask if you have some questions!
 
@@ -63,7 +63,7 @@ A lot of you are working everyday on Crowdin to have PrestaShop available in man
 
 #### Fully translated languages
 
-At the end of September, PrestaShop 1.6.0.1 was fully available (= 100% translated and validated) in 8 languages:
+At the end of September, PrestaShop 1.6.1.0 was fully available (= 100% translated and validated) in 8 languages:
 
 * Bulgarian
 * Croatian
@@ -78,7 +78,6 @@ At the end of September, PrestaShop 1.6.0.1 was fully available (= 100% translat
 #### 99% translated languages
 
 …and almost fully translated (and validated) in the following 9 languages:
-
 
 * Czech
 * French
@@ -119,7 +118,7 @@ So don't hesitate to join!
 
 A translated string will not be available in PrestaShop as long as it is not validated. For this reason, it’s important we should keep a good level of validated strings vs. translated string, to make sure everyone benefits from the latest translations!
 
-These languages (still) need you as proofreaders as well:
+These languages (still) need you as proofreaders:
 
 * Turkish (94% translated vs 0% validated)
 * Slovak (78% vs 24%)
@@ -136,13 +135,14 @@ If you wish to help proofreading what has been translated, please [contact me on
 
 ## A word from the community
 
-Here is an update on the latest initiatives from members of the translation community.
+Here is an update on the latest initiatives from members of the PrestaShop translation community.
 
 #### Turkish
 Turkish translator ftugrul is trying to gather the Turkish community. Join the [discussion on Crowdin forum](https://crowdin.com/project/prestashop-official/discussions/210) to harmonize the translation and go forward with more proofreading. We do need more proofreading in Turkish, so make yourself known if you want to participate!
 
 
 ## Miscellaneous
+
 * **109 contributors** joined the project this month, for a **total of 2,239 members** at the end of September. Welcome to them!
 * **62 members** were active on the project this month.
 * A total of **30,969 words have been translated** and 8,555 validated, in **37 different languages**.
